@@ -102,6 +102,12 @@ To run the Fast React Pizza Ordering System locally, follow these steps:
 4. Start the development server: `npm start`
 
 
+
+
+
+
 ## Contributing
 
 Contributions to the Fast React Pizza Co. are welcome! If you find any issues or have suggestions for improvement, please feel free to open an issue or submit a pull request.
+## Visual Overview
+https://github.com/omarhark/fast-react-pizza/assets/141445140/38f789d7-99d1-4b54-a36e-f278acf6332f
